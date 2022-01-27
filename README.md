@@ -4,3 +4,4 @@ I worked as a graduate teaching assistant at Khoury College of Computer Sciences
 
 During this time, I was mostly involved in designing college wide meetings with students and ensuring that they perform well on the tests and assessments. 
 
+<img src = "https://github.com/suhasmaddali/Images/blob/main/Teaching%20Assistant%20Image.jpg" width = 750/>
