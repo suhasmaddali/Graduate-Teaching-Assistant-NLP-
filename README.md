@@ -1,4 +1,4 @@
-# Graduate Teaching Assistant (Natural Language Processing)
+# 🏢👨‍💻 Graduate Teaching Assistant (Natural Language Processing)
 
 * I worked as a __graduate teaching assistant__ at __Khoury College of Computer Sciences__ for the course Natural Language Processing (NLP DS 6120). 
 
