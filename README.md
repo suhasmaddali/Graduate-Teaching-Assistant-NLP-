@@ -1,4 +1,4 @@
-# 🏢👨‍💻 Graduate Teaching Assistant (Natural Language Processing)
+# 🏢👨‍💻 Teaching Assistant (Natural Language Processing)
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Teaching%20Assistant%20Image.jpg" width = 1000/>
 
